@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @phil-pickering
-- 👀 I’m interested in computers, the internet, windows + ms office, and web development with html + css + javascript
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on websites using html + css + javascript
-- 📫 How to reach me: philpickering@outlook.com
+- 👀 I’m an absolute beginner at web development who has never written a line of code
+- 🌱 I’m currently learning to program from scratch
+- 💞️ I’ll soon be looking to collaborate on web development projects using html + css + javascript
+- 📫 How to reach me: philpickering@tuta.io
 
 <!---
 phil-pickering/phil-pickering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
