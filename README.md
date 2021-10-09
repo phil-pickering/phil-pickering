@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @phil-pickering
-- 👀 I’m an absolute beginner at web development who has never written a line of code
-- 🌱 I’m currently learning to become a web developer with dev_mimo
-- 💞️ I’ll soon be looking to collaborate on web development projects using html + css + javascript
-- 📫 How to reach me: philpickering@tuta.io
+- 👀 I’m learning web development with the goal of getting my first job in tech as a junior frontend developer
+- 🌱 I’m currently a student on the mimo_dev program 
+- 💞️ I’ll be looking to collaborate on web development projects using html / css / javascript / react / node + express / sql from april 2022
+- 📫 How to reach me: philpickering@outlook.com
 
 <!---
 phil-pickering/phil-pickering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
